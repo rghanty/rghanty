@@ -8,7 +8,11 @@
 
 Find me on Linkedin: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-ghanty-b1758a211/)
 
+Feel free to contact me on: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhg260203@gmail.com)
 
+
+# Skills:
+[![My Skills](https://skillicons.dev/icons?i=html,css,gcp,azure,react,vue,flutter&perline=10)](https://skillicons.dev)
 
 # Random joke for you
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt)
