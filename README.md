@@ -1,5 +1,8 @@
 ## Greetings 👋
 
+![Untitledvideo-MadewithClipchamp1-ezgif com-resize](https://github.com/rghanty/rghanty/assets/99227180/2dca89e6-e5e1-4e47-a954-428944db1860)
+
+
 # My Bio 🖥️:
  - 3rd Year BSc. Student at UBC.
  - Majoring in Computer Science.
@@ -35,15 +38,18 @@ Feel free to contact me on: [![Gmail](https://img.shields.io/badge/Gmail-D14836?
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 
-# Random joke for you
+# Random joke for you:
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt)
 
 
-# 📈GitHub Progress:
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/pujux)](https://badges.pufler.dev)
-[![Created Badge](https://badges.pufler.dev/created/pujux/badge-it)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/pujux)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/pujux)](https://badges.pufler.dev)
+# 📈GitHub Stats:
+![](https://komarev.com/ghpvc/?username=rghanty&color=blue&abbreviated=true)
+[![Repos Badge](https://badges.pufler.dev/repos/rghanty)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/rghanty)](https://badges.pufler.dev)
+![GitHub followers](https://img.shields.io/github/followers/rghanty)
+
+
+
 
 
 
