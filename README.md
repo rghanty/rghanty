@@ -45,8 +45,8 @@ Feel free to contact me on: [![Gmail](https://img.shields.io/badge/Gmail-D14836?
 
 # 📈GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=rghanty&color=blue&abbreviated=true)
-[![Repos Badge](https://badges.pufler.dev/repos/rghanty)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/rghanty)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/rghanty)](https://github.com/rghanty?tab=repositories)
+![Years Badge](https://badges.pufler.dev/years/rghanty)
 ![GitHub followers](https://img.shields.io/github/followers/rghanty)
 
 
