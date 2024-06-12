@@ -1,7 +1,8 @@
 ## Greetings 👋
 
 <p align = "center"><img src = "https://github.com/rghanty/rghanty/assets/99227180/2dca89e6-e5e1-4e47-a954-428944db1860"></p>
-<p align = "center"><i>Dijkstra algorithm visualization</i></p>
+<p align = "center"><i>Dijkstra algorithm visualization</i></p> 
+
 
 # My Bio 🖥️:
  - 3rd Year BSc. Student at UBC.
