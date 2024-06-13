@@ -15,6 +15,8 @@ Find me on Linkedin: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B
 
 Feel free to contact me on: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhg260203@gmail.com)
 
+Visit my Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://rghanty.github.io/)
+
 
 # Skills 👨‍💻:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
