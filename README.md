@@ -7,7 +7,7 @@
 # My Bio 🖥️:
  - 3rd Year BSc. Student at UBC.
  - Majoring in Computer Science.
- - Prev. Software Engineer at Optum
+ - Current SWE Intern at [![MasterCard](https://img.shields.io/badge/Mastercard-ff1919?logo=mastercard&logoColor=ffd919)](https://www.mastercard.ca/en-ca.html), prev at Optum
  - Interested in AI/ML and Computer Vision.
  - Love to learn new concepts and work on side projects.
 
